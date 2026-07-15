@@ -1,9 +1,9 @@
 {
-  "version": "0.6.58",
+  "version": "0.6.59",
   "min_required_version": "0.0.0",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.6.58/ERMS-0.6.58-patch.zip",
-  "sha256": "211cd5885e16fd2ecc7f07e8c1917a21fae8da3e9f34113003f901923d46b2e7",
-  "size": 14891557,
-  "notes": "자동 업데이트 기능 점검용 릴리스입니다.",
-  "published_at": "2026-07-15T12:24:58"
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.6.59/ERMS-0.6.59-patch.zip",
+  "sha256": "912083cdaf16e2bb2cb3ae9712efa9852b75ed23b9fdef08d6ddf128461aef4a",
+  "size": 14904311,
+  "notes": "복호화 오류 안내 개선, 설정에 업데이트 탭 추가, 업데이트 안정성 향상, 시작 속도 개선",
+  "published_at": "2026-07-15T13:25:29"
 }
