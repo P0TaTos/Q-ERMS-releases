@@ -1,9 +1,9 @@
 {
-  "version": "0.6.66",
+  "version": "0.6.67",
   "min_required_version": "0.6.60",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.6.66/ERMS-0.6.66-patch.zip",
-  "sha256": "24608798b9567407210a07576149887164906c1ff3753f0ee647fde8036722ea",
-  "size": 880847,
-  "notes": "설정 > 업데이트의 '패치노트 보기'로 버전별 변경 내역을 앱에서 바로 볼 수 있어요.",
-  "published_at": "2026-07-23T09:58:33"
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.6.67/ERMS-0.6.67-patch.zip",
+  "sha256": "c40230c38af3c138326f940c951c989931e491ed5ded724e16de6f110c6e08b5",
+  "size": 955716,
+  "notes": "엑셀 업로드 정리, 여러 창 모서리 빈칸 제거, 점검 보고서 줄 높이 정리. 앞으로 화면·양식 변경도 자동 업데이트로 전달됩니다.",
+  "published_at": "2026-07-23T11:55:44"
 }
