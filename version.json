@@ -1,9 +1,9 @@
 {
-  "version": "0.6.67",
+  "version": "0.6.68",
   "min_required_version": "0.6.60",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.6.67/ERMS-0.6.67-patch.zip",
-  "sha256": "c40230c38af3c138326f940c951c989931e491ed5ded724e16de6f110c6e08b5",
-  "size": 955716,
-  "notes": "엑셀 업로드 정리, 여러 창 모서리 빈칸 제거, 점검 보고서 줄 높이 정리. 앞으로 화면·양식 변경도 자동 업데이트로 전달됩니다.",
-  "published_at": "2026-07-23T11:55:44"
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.6.68/ERMS-0.6.68-patch.zip",
+  "sha256": "90150051daf5730bae19c339f13e8cb7f5a00184b22e8bc618bce082f658204f",
+  "size": 968161,
+  "notes": "창 상단 버튼·모서리 표시 문제 수정, 장비 저장 시 멈춤 개선, 안정성 진단 로그 추가.",
+  "published_at": "2026-07-23T13:18:36"
 }
