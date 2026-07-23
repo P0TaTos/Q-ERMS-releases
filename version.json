@@ -1,9 +1,9 @@
 {
-  "version": "0.6.64",
+  "version": "0.6.65",
   "min_required_version": "0.6.60",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.6.64/ERMS-0.6.64-patch.zip",
-  "sha256": "6d0f48759eed71a5b9a9b41859540a197250f06c5809da2759a62c734f296bde",
-  "size": 868572,
-  "notes": "장비 엑셀 업로드용 빈 양식 다운로드 기능 추가",
-  "published_at": "2026-07-16T11:26:27"
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.6.65/ERMS-0.6.65-patch.zip",
+  "sha256": "cde51ab74b2b2fcc420970fe802ea333908e385c9b85a080a01188abe4c50f5a",
+  "size": 871217,
+  "notes": "자동 업데이트 적용 오류 수정 및 여러 기능 개선",
+  "published_at": "2026-07-23T09:03:41"
 }
