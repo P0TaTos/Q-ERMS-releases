@@ -1,9 +1,9 @@
 {
-  "version": "0.6.65",
+  "version": "0.6.66",
   "min_required_version": "0.6.60",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.6.65/ERMS-0.6.65-patch.zip",
-  "sha256": "cde51ab74b2b2fcc420970fe802ea333908e385c9b85a080a01188abe4c50f5a",
-  "size": 871217,
-  "notes": "자동 업데이트 적용 오류 수정 및 여러 기능 개선",
-  "published_at": "2026-07-23T09:03:41"
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.6.66/ERMS-0.6.66-patch.zip",
+  "sha256": "24608798b9567407210a07576149887164906c1ff3753f0ee647fde8036722ea",
+  "size": 880847,
+  "notes": "설정 > 업데이트의 '패치노트 보기'로 버전별 변경 내역을 앱에서 바로 볼 수 있어요.",
+  "published_at": "2026-07-23T09:58:33"
 }
