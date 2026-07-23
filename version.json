@@ -1,9 +1,9 @@
 {
-  "version": "0.6.68",
+  "version": "0.6.69",
   "min_required_version": "0.6.60",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.6.68/ERMS-0.6.68-patch.zip",
-  "sha256": "90150051daf5730bae19c339f13e8cb7f5a00184b22e8bc618bce082f658204f",
-  "size": 968161,
-  "notes": "창 상단 버튼·모서리 표시 문제 수정, 장비 저장 시 멈춤 개선, 안정성 진단 로그 추가.",
-  "published_at": "2026-07-23T13:18:36"
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.6.69/ERMS-0.6.69-patch.zip",
+  "sha256": "4a112ff0d017e21fcc9ba97189a52fd54ba01d3879895d093be2b8d18efb726b",
+  "size": 973173,
+  "notes": "대시보드 그래프·클릭 이동·막대 차트, 대여중 표시, 이력·로그 날짜 검색, 대여 이력 갱신·창 최소화·시작 멈춤 수정, 아이콘·문구 정리.",
+  "published_at": "2026-07-23T15:41:34"
 }
