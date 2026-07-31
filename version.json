@@ -1,9 +1,9 @@
 {
-  "version": "0.6.69",
+  "version": "0.6.70",
   "min_required_version": "0.6.60",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.6.69/ERMS-0.6.69-patch.zip",
-  "sha256": "4a112ff0d017e21fcc9ba97189a52fd54ba01d3879895d093be2b8d18efb726b",
-  "size": 973173,
-  "notes": "대시보드 그래프·클릭 이동·막대 차트, 대여중 표시, 이력·로그 날짜 검색, 대여 이력 갱신·창 최소화·시작 멈춤 수정, 아이콘·문구 정리.",
-  "published_at": "2026-07-23T15:41:34"
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.6.70/ERMS-0.6.70-patch.zip",
+  "sha256": "b24f7edbb490e2c561f9ca4cb73b65ab6b626e27e2a3ae1aa31af4b902ffcb4f",
+  "size": 1002006,
+  "notes": "대여 이력 기록·상태 유지·최초 실행 멈춤·창 표시·전체화면 여백 등 다수 수정, 상태 필터·인쇄 설정·엑셀 양식 개선·계정 메뉴 추가.",
+  "published_at": "2026-07-31T10:25:45"
 }
