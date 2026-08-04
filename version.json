@@ -1,9 +1,9 @@
 {
-  "version": "0.7.0",
-  "min_required_version": "0.0.0",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.0/ERMS-0.7.0-patch.zip",
-  "sha256": "4d5b0c38199b32f9b59ccf0abda4281db6d0c5249d4fcf93d11571d47abde9c8",
-  "size": 1003730,
-  "notes": "0.6.70에서 실행 즉시 종료되던 심각한 문제 긴급 수정. (0.6.70 설치본은 자동 업데이트가 안 되므로 최신 빌드로 재설치 필요)",
-  "published_at": "2026-07-31T11:33:31"
+  "version": "0.7.1",
+  "min_required_version": "0.6.60",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.1/ERMS-0.7.1-patch.zip",
+  "sha256": "16b839fc30167dd492514e41f6c3ab44c2d9d2a98e4939342d2e5ac18626991c",
+  "size": 1006039,
+  "notes": "창 상단 더블클릭 최대화, 닫기 버튼 표시, 시작 멈춤·최대화 여백·대시보드 수치 표시 수정.",
+  "published_at": "2026-08-04T09:27:12"
 }
