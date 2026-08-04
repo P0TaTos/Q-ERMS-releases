@@ -1,9 +1,11 @@
 {
-  "version": "0.7.1",
+  "version": "0.7.2",
   "min_required_version": "0.6.60",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.1/ERMS-0.7.1-patch.zip",
-  "sha256": "16b839fc30167dd492514e41f6c3ab44c2d9d2a98e4939342d2e5ac18626991c",
-  "size": 1006039,
-  "notes": "창 상단 더블클릭 최대화, 닫기 버튼 표시, 시작 멈춤·최대화 여백·대시보드 수치 표시 수정.",
-  "published_at": "2026-08-04T09:27:12"
+  "kind": "patch",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.2/ERMS-0.7.2-patch.zip",
+  "sha256": "9b979ab8998a1acb4d297b4488d678077d0b6408658e689623833d838b31b8a1",
+  "size": 1023784,
+  "notes": "구글 계정 프로필 보기 추가, 업데이트 알림 구분. ※ 계정 권한 추가로 이번 업데이트 후 한 번 다시 로그인이 필요합니다.",
+  "download_url": "",
+  "published_at": "2026-08-04T10:11:02"
 }
