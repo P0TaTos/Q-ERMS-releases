@@ -1,11 +1,11 @@
 {
-  "version": "0.7.2",
+  "version": "0.7.3",
   "min_required_version": "0.6.60",
   "kind": "patch",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.2/ERMS-0.7.2-patch.zip",
-  "sha256": "9b979ab8998a1acb4d297b4488d678077d0b6408658e689623833d838b31b8a1",
-  "size": 1023784,
-  "notes": "구글 계정 프로필 보기 추가, 업데이트 알림 구분. ※ 계정 권한 추가로 이번 업데이트 후 한 번 다시 로그인이 필요합니다.",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.3/ERMS-0.7.3-patch.zip",
+  "sha256": "0a333e0f581d837b5d0823ee0c40c4e43f1af6c285491100c5d67f7401ab7915",
+  "size": 1032189,
+  "notes": "데이터 로딩 안정화(요청 조절), 닫기 버튼·QR 인쇄 설정 반영·삭제 장비 이력·설정 저장 커서 수정.",
   "download_url": "",
-  "published_at": "2026-08-04T10:11:02"
+  "published_at": "2026-08-13T08:48:37"
 }
