@@ -1,11 +1,11 @@
 {
-  "version": "0.7.3",
+  "version": "0.7.4",
   "min_required_version": "0.6.60",
   "kind": "patch",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.3/ERMS-0.7.3-patch.zip",
-  "sha256": "0a333e0f581d837b5d0823ee0c40c4e43f1af6c285491100c5d67f7401ab7915",
-  "size": 1032189,
-  "notes": "데이터 로딩 안정화(요청 조절), 닫기 버튼·QR 인쇄 설정 반영·삭제 장비 이력·설정 저장 커서 수정.",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.4/ERMS-0.7.4-patch.zip",
+  "sha256": "ec270ddafd34542a2e6e296b1da26ae614f15b89369f086ee2d8d29c77c9b33e",
+  "size": 1039805,
+  "notes": "복호화 빈 값 표시 수정, 여러 장비 한번에 삭제, 대시보드 1일 추이 표시, 버전 표시 개선.",
   "download_url": "",
-  "published_at": "2026-08-13T08:48:37"
+  "published_at": "2026-08-13T11:52:35"
 }
