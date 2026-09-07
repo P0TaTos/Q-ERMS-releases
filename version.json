@@ -3,9 +3,9 @@
   "min_required_version": "0.6.60",
   "kind": "patch",
   "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.9/ERMS-0.7.9-patch.zip",
-  "sha256": "42c09734de3f5ab3baefd0ba9c3a288f12aa319004a5f8b0b7f243e2c580e3ee",
-  "size": 1100911,
+  "sha256": "dbe7179fbb952572eeb6a5454744310e5543773b65f1d523cf1e7e9793fed206",
+  "size": 1104144,
   "notes": "사용 중 프로그램이 아무 안내 없이 갑자기 종료되던 문제를 수정했습니다.",
   "download_url": "",
-  "published_at": "2026-09-07T14:37:30"
+  "published_at": "2026-09-07T15:22:22"
 }
