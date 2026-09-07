@@ -1,11 +1,11 @@
 {
-  "version": "0.7.6",
+  "version": "0.7.7",
   "min_required_version": "0.6.60",
   "kind": "patch",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.6/ERMS-0.7.6-patch.zip",
-  "sha256": "2f6449533e2b7f4ca48713c3851eb8b1f3772819f13b30c728691c39a61ee6d5",
-  "size": 1071620,
-  "notes": "새 PC에서 첫 실행 시 최신 화면이 정상 표시되도록 수정, 화면 잠금 PIN 삭제 후 QR 스캔이 정상 동작하도록 수정.",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.7/ERMS-0.7.7-patch.zip",
+  "sha256": "bf10b2a3a1fd98be79595499c4a19db9d91b84e94773d4bad2df59d70d91624e",
+  "size": 1081561,
+  "notes": "새 PC나 압축을 푼 폴더에서 화면이 안 뜨던 문제를 근본적으로 재수정했습니다. 이제 WebView2 화면이 항상 정상 로드되며, 드물게 실패하면 안내 화면이 표시됩니다.",
   "download_url": "",
-  "published_at": "2026-09-07T09:48:52"
+  "published_at": "2026-09-07T10:42:29"
 }
