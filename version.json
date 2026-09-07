@@ -1,11 +1,11 @@
 {
-  "version": "0.7.7",
+  "version": "0.7.8",
   "min_required_version": "0.6.60",
   "kind": "patch",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.7/ERMS-0.7.7-patch.zip",
-  "sha256": "bf10b2a3a1fd98be79595499c4a19db9d91b84e94773d4bad2df59d70d91624e",
-  "size": 1081561,
-  "notes": "새 PC나 압축을 푼 폴더에서 화면이 안 뜨던 문제를 근본적으로 재수정했습니다. 이제 WebView2 화면이 항상 정상 로드되며, 드물게 실패하면 안내 화면이 표시됩니다.",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.8/ERMS-0.7.8-patch.zip",
+  "sha256": "ebf0e052c336a0e1c352d384f7376058be80ad8cc93e29ee1d2b03d904f7cf62",
+  "size": 1098422,
+  "notes": "여러 화면(장비 QR·설정 창·목록 새로고침)에서 잠깐 '응답 없음'으로 멈추던 문제를 근본 수정하고, 업데이트 적용·종료·재시작을 안정화했습니다.",
   "download_url": "",
-  "published_at": "2026-09-07T10:42:29"
+  "published_at": "2026-09-07T13:34:13"
 }
