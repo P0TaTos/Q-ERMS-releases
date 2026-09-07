@@ -1,11 +1,11 @@
 {
-  "version": "0.7.5",
+  "version": "0.7.6",
   "min_required_version": "0.6.60",
   "kind": "patch",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.5/ERMS-0.7.5-patch.zip",
-  "sha256": "a2773b9323264e52b0f99be930e4cd0649a237713679b6ca23e8d476763eab3c",
-  "size": 1061794,
-  "notes": "업데이트 안정화, 엑셀 가져오기·내보내기 정확도 개선(값 누락·카테고리 자동 등록), 설정 화면 공유 정보 정리.",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.6/ERMS-0.7.6-patch.zip",
+  "sha256": "2f6449533e2b7f4ca48713c3851eb8b1f3772819f13b30c728691c39a61ee6d5",
+  "size": 1071620,
+  "notes": "새 PC에서 첫 실행 시 최신 화면이 정상 표시되도록 수정, 화면 잠금 PIN 삭제 후 QR 스캔이 정상 동작하도록 수정.",
   "download_url": "",
-  "published_at": "2026-08-25T11:16:51"
+  "published_at": "2026-09-07T09:48:52"
 }
