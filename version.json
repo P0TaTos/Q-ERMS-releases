@@ -1,11 +1,11 @@
 {
-  "version": "0.7.8",
+  "version": "0.7.9",
   "min_required_version": "0.6.60",
   "kind": "patch",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.8/ERMS-0.7.8-patch.zip",
-  "sha256": "ebf0e052c336a0e1c352d384f7376058be80ad8cc93e29ee1d2b03d904f7cf62",
-  "size": 1098422,
-  "notes": "여러 화면(장비 QR·설정 창·목록 새로고침)에서 잠깐 '응답 없음'으로 멈추던 문제를 근본 수정하고, 업데이트 적용·종료·재시작을 안정화했습니다.",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.9/ERMS-0.7.9-patch.zip",
+  "sha256": "42c09734de3f5ab3baefd0ba9c3a288f12aa319004a5f8b0b7f243e2c580e3ee",
+  "size": 1100911,
+  "notes": "사용 중 프로그램이 아무 안내 없이 갑자기 종료되던 문제를 수정했습니다.",
   "download_url": "",
-  "published_at": "2026-09-07T13:34:13"
+  "published_at": "2026-09-07T14:37:30"
 }
