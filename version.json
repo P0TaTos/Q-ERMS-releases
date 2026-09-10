@@ -1,11 +1,11 @@
 {
-  "version": "0.7.9",
-  "min_required_version": "0.6.60",
+  "version": "0.7.10",
+  "min_required_version": "0.0.0",
   "kind": "patch",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.9/ERMS-0.7.9-patch.zip",
-  "sha256": "b12e8668c0e0c4fbddc4f78967dfef7915ffedd74e10b6fcf96d69559fc5e5ef",
-  "size": 1110392,
-  "notes": "빠른 작업 중 프로그램이 갑자기 종료되던 문제를 수정했습니다. 백그라운드 작업 정리 과정을 더 안전하게 처리했습니다.",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.10/ERMS-0.7.10-patch.zip",
+  "sha256": "adcc0c61ac100391ed058b99fa8a2af8b41a848f45037dfda4d40d994bb1023c",
+  "size": 16151145,
+  "notes": "인터넷이 잠시 느리거나 끊길 때 프로그램이 갑자기 꺼지던 문제를 고쳤습니다. 통신이 멈추면 정해진 시간 안에 스스로 끊고 다시 시도합니다.",
   "download_url": "",
-  "published_at": "2026-09-07T16:51:57"
+  "published_at": "2026-09-10T09:57:19"
 }
