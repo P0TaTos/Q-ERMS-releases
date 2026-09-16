@@ -1,12 +1,12 @@
 {
-  "version": "0.7.14",
+  "version": "0.7.15",
   "min_required_version": "0.7.14",
   "kind": "patch",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.14/ERMS-0.7.14-patch.zip.enc",
-  "sha256": "8671925720e38748511a0a842e7d70fa95aed7d437f3e5991b76972ab3554489",
-  "size": 16273011,
-  "notes": "시트에 있는데 목록에 안 보이던 장비가 사라지지 않도록 고쳤고, 프로그램을 막 켰을 때 분류 선택이 비어 보이던 문제와 설정에서 바꾼 항목 이름이 바로 반영되지 않던 문제를 수정했습니다. 점검표 양식과 업데이트 파일은 암호화해 보관합니다. 0.7.13 이하를 쓰시던 분은 새 버전을 새로 받아 설치해 주세요.",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.15/ERMS-0.7.15-patch.zip.enc",
+  "sha256": "60508c33cff24e6e57e1236afdaab281b0d9c27f2f73453c8762dc5228ab2bdd",
+  "size": 16279985,
+  "notes": "프로그램을 막 켠 직후 분류 선택이 채워지지 않던 문제를 추가로 고쳤고, 화면보다 큰 창으로 열려 오른쪽이 잘리던 문제와 점검표 OS 칸이 비어 있던 문제를 수정했습니다.",
   "download_url": "",
   "enc": "aesgcm-sym-v1",
-  "published_at": "2026-09-16T11:42:19"
+  "published_at": "2026-09-16T12:21:29"
 }
