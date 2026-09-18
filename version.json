@@ -1,12 +1,12 @@
 {
-  "version": "0.7.16",
+  "version": "0.7.17",
   "min_required_version": "0.7.14",
   "kind": "patch",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.16/ERMS-0.7.16-patch.zip.enc",
-  "sha256": "7e41c59212f68ad066d1c9a6b3c1136e19ed06dc01596dd5212fd877b9ade3fa",
-  "size": 16282433,
-  "notes": "PIN 을 설정한 적이 없는데도 QR 대여 화면에 PIN 입력창이 뜨던 문제를 고쳤습니다. 프로그램이 기본 PIN 을 자동으로 넣어 두던 동작을 없앴습니다 — PIN 을 만들지 않으면 입력창 없이 이름만으로 대여됩니다.",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.17/ERMS-0.7.17-patch.zip.enc",
+  "sha256": "91f4fe01588ecf5515efad244a07c2b028719b33babd0e8aafa863ebde9726a9",
+  "size": 16286820,
+  "notes": "대시보드에 들어갈 때마다 추이 그래프와 최근 활동이 잠깐 빈 상태로 보였다가 채워지던 것을 고쳤습니다. 자료를 한 번 불러온 뒤에는 다른 메뉴를 다녀와도 그대로 보이고, 처음 불러오는 동안에는 안내가 나옵니다.",
   "download_url": "",
   "enc": "aesgcm-sym-v1",
-  "published_at": "2026-09-18T09:37:50"
+  "published_at": "2026-09-18T09:48:36"
 }
