@@ -1,12 +1,12 @@
 {
-  "version": "0.7.17",
+  "version": "0.7.18",
   "min_required_version": "0.7.14",
   "kind": "patch",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.17/ERMS-0.7.17-patch.zip.enc",
-  "sha256": "91f4fe01588ecf5515efad244a07c2b028719b33babd0e8aafa863ebde9726a9",
-  "size": 16286820,
-  "notes": "대시보드에 들어갈 때마다 추이 그래프와 최근 활동이 잠깐 빈 상태로 보였다가 채워지던 것을 고쳤습니다. 자료를 한 번 불러온 뒤에는 다른 메뉴를 다녀와도 그대로 보이고, 처음 불러오는 동안에는 안내가 나옵니다.",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.18/ERMS-0.7.18-patch.zip.enc",
+  "sha256": "b56216c7e30a259191b235c61ab09727d6330d440fde0c3064acf5c45403142e",
+  "size": 16288537,
+  "notes": "PIN 을 설정한 적이 없는데 QR 화면에 PIN 입력창이 뜨던 문제를 추가로 고쳤습니다. 예전 버전이 자동으로 넣어 두었던 기본 PIN 이 남아 있으면 프로그램을 켤 때 스스로 정리합니다(직접 정하신 PIN 은 그대로 둡니다).",
   "download_url": "",
   "enc": "aesgcm-sym-v1",
-  "published_at": "2026-09-18T09:48:36"
+  "published_at": "2026-09-20T21:10:48"
 }
