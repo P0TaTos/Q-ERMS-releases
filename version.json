@@ -1,12 +1,12 @@
 {
-  "version": "0.7.18",
+  "version": "0.9.0",
   "min_required_version": "0.7.14",
   "kind": "patch",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.7.18/ERMS-0.7.18-patch.zip.enc",
-  "sha256": "b56216c7e30a259191b235c61ab09727d6330d440fde0c3064acf5c45403142e",
-  "size": 16288537,
-  "notes": "PIN 을 설정한 적이 없는데 QR 화면에 PIN 입력창이 뜨던 문제를 추가로 고쳤습니다. 예전 버전이 자동으로 넣어 두었던 기본 PIN 이 남아 있으면 프로그램을 켤 때 스스로 정리합니다(직접 정하신 PIN 은 그대로 둡니다).",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.9.0/ERMS-0.9.0-patch.zip.enc",
+  "sha256": "bb1a10771b444517e5bf7385415bd48ef8e92e87c1057d52d3af09a364fd2972",
+  "size": 16690980,
+  "notes": "보고서가 '엑셀 내보내기'로 바뀌었습니다(항목 골라 저장, 프리셋). 장비 표 머리글 정렬·필터와 열 너비 조절, '디바이스 관리' 메뉴, 계정별 권한 관리가 추가됐고, 로그아웃이 안 되던 문제와 PIN 이 다시 나타나던 문제를 고쳤습니다.",
   "download_url": "",
   "enc": "aesgcm-sym-v1",
-  "published_at": "2026-09-20T21:10:48"
+  "published_at": "2026-10-13T13:11:40"
 }
