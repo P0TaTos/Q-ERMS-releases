@@ -1,12 +1,12 @@
 {
-  "version": "0.9.5",
+  "version": "0.10.0",
   "min_required_version": "0.7.14",
   "kind": "patch",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.9.5/ERMS-0.9.5-patch.zip.enc",
-  "sha256": "d7e9c516b227bb8c414d776fc8f707addce0c6a03d377e1f8c47e9df08071ab8",
-  "size": 1433926,
-  "notes": "장비 관리의 장비 상세 아이콘·제목이 디바이스용으로 보이던 문제를 고쳤습니다.",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.10.0/ERMS-0.10.0-patch.zip.enc",
+  "sha256": "84d942fee61a454746871855d0a3a16c9d3c1ac00e11eef4450e021c6242a86f",
+  "size": 1524477,
+  "notes": "장비·디바이스 구분별 카테고리·항목·인쇄 관리, 주 최고관리자 보호, PIN 대여 오류 수정, 대시보드 정리 등이 포함되었습니다.",
   "download_url": "",
   "enc": "aesgcm-sym-v1",
-  "published_at": "2026-10-30T14:39:50"
+  "published_at": "2026-10-30T18:34:54"
 }
