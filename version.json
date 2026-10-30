@@ -1,12 +1,12 @@
 {
-  "version": "0.9.3",
+  "version": "0.9.4",
   "min_required_version": "0.7.14",
   "kind": "patch",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.9.3/ERMS-0.9.3-patch.zip.enc",
-  "sha256": "7d8559cf71d032719a6c761a9feb80daa1dc89e38b9689e16bc51072d5cd25b8",
-  "size": 1382101,
-  "notes": "로그인하지 않은 상태(건너뛰기·로그아웃)에서 관리자 메뉴가 보이던 문제를 고쳤습니다.",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.9.4/ERMS-0.9.4-patch.zip.enc",
+  "sha256": "eec62d464817c4da2d5c906f3cacce9275af4d391dba8d706969989dc14eace6",
+  "size": 1433294,
+  "notes": "장비·디바이스 관리 분리, 테이블 설정 3탭, 다른 프로그램 사용 중 포커스 뺏김 수정 등 여러 화면을 고쳤습니다.",
   "download_url": "",
   "enc": "aesgcm-sym-v1",
-  "published_at": "2026-10-23T01:31:47"
+  "published_at": "2026-10-30T14:23:19"
 }
