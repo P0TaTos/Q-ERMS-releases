@@ -1,12 +1,12 @@
 {
-  "version": "0.10.0",
+  "version": "0.10.1",
   "min_required_version": "0.7.14",
   "kind": "patch",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.10.0/ERMS-0.10.0-patch.zip.enc",
-  "sha256": "84d942fee61a454746871855d0a3a16c9d3c1ac00e11eef4450e021c6242a86f",
-  "size": 1524477,
-  "notes": "장비·디바이스 구분별 카테고리·항목·인쇄 관리, 주 최고관리자 보호, PIN 대여 오류 수정, 대시보드 정리 등이 포함되었습니다.",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.10.1/ERMS-0.10.1-patch.zip.enc",
+  "sha256": "6f20cca5e3e18a176ca146a689680a5fbefbd215e4b92742752f92dc318108c1",
+  "size": 1529874,
+  "notes": "계정 바꿔 로그인 시 권한 오류 수정, 역할 변경 시 기본 권한 채움, 설정 창 깜빡임·대기 커서 수정, 반납 후 경고 안내 즉시 갱신",
   "download_url": "",
   "enc": "aesgcm-sym-v1",
-  "published_at": "2026-10-30T18:34:54"
+  "published_at": "2026-11-03T23:57:09"
 }
