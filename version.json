@@ -1,12 +1,12 @@
 {
-  "version": "0.10.1",
+  "version": "1.0.0",
   "min_required_version": "0.7.14",
   "kind": "patch",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v0.10.1/ERMS-0.10.1-patch.zip.enc",
-  "sha256": "6f20cca5e3e18a176ca146a689680a5fbefbd215e4b92742752f92dc318108c1",
-  "size": 1529874,
-  "notes": "계정 바꿔 로그인 시 권한 오류 수정, 역할 변경 시 기본 권한 채움, 설정 창 깜빡임·대기 커서 수정, 반납 후 경고 안내 즉시 갱신",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v1.0.0/ERMS-1.0.0-patch.zip.enc",
+  "sha256": "6a82fb3ffb98eba9f363f59db21dadf32fb1d3e6dc92eea3f2e1b2c79a399753",
+  "size": 1533164,
+  "notes": "정식 출시(1.0.0)와 같은 코드. 정식 버전은 시트 교체를 막고 개발 버전은 그대로",
   "download_url": "",
   "enc": "aesgcm-sym-v1",
-  "published_at": "2026-11-03T23:57:09"
+  "published_at": "2026-11-09T10:52:48"
 }
