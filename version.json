@@ -1,12 +1,12 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "min_required_version": "0.7.14",
   "kind": "patch",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v1.1.0/ERMS-1.1.0-patch.zip.enc",
-  "sha256": "d736c7ec492ae92b4f686cbed8799c11ab332b1eeed22f0ea31cf2531a35d3f1",
-  "size": 1595111,
-  "notes": "권한 관리에서 '장비 사용자'처럼 역할을 직접 만들어 메뉴·설정·편집·내보내기 권한을 묶어 지정할 수 있습니다",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v1.1.1/ERMS-1.1.1-patch.zip.enc",
+  "sha256": "c88f5994ebea6a89c015c0dcaf8b7944c8fe8609988057710caab8f2e2089deb",
+  "size": 1613645,
+  "notes": "연속 대여 시 요청 한도 초과 수정, 권한 관리 계정 추가를 공유 계정 목록에서 고르기",
   "download_url": "",
   "enc": "aesgcm-sym-v1",
-  "published_at": "2026-11-09T12:57:07"
+  "published_at": "2026-11-09T13:56:00"
 }
