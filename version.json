@@ -1,12 +1,12 @@
 {
-  "version": "1.1.3",
+  "version": "1.1.4",
   "min_required_version": "0.7.14",
   "kind": "patch",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v1.1.3/ERMS-1.1.3-patch.zip.enc",
-  "sha256": "50a23a4ae1c9b388a10dad9f60ada8e2fa93e64a80a9e0b0b2f8d5501ad3df96",
-  "size": 1625778,
-  "notes": "QR 인쇄 미리보기에서 [인쇄] 버튼이 보이지 않던 문제 수정(창 아래 [인쇄]·[닫기], 도구 막대 맨 앞 '인쇄' 글자 버튼)",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v1.1.4/ERMS-1.1.4-patch.zip.enc",
+  "sha256": "4786a3267a52bae8317a11811aae9a29938b0ef1639c05e74ccb407739792394",
+  "size": 1645881,
+  "notes": "QR 라벨 글자가 안 찍히던 문제 수정, 인쇄 설정에 테이블 항목 전부, 라벨 세로 가운데, 일반 사용자 내보내기 설정, 삭제한 공유 계정 목록 복귀",
   "download_url": "",
   "enc": "aesgcm-sym-v1",
-  "published_at": "2026-11-26T13:40:11"
+  "published_at": "2026-11-26T14:51:26"
 }
