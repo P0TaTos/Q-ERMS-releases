@@ -1,12 +1,12 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.3",
   "min_required_version": "0.7.14",
   "kind": "patch",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v1.1.2/ERMS-1.1.2-patch.zip.enc",
-  "sha256": "d84ec467eb97d376ecc38fcd475168a86b86ab94528caae9af007668bcdf28d6",
-  "size": 1623587,
-  "notes": "계정 권한을 예전 내용으로 되돌려 붙이거나 지운 계정을 되살리는 것을 막고, 두 PC 동시 수정 시 덮어쓰지 않도록 안내",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases/releases/download/v1.1.3/ERMS-1.1.3-patch.zip.enc",
+  "sha256": "50a23a4ae1c9b388a10dad9f60ada8e2fa93e64a80a9e0b0b2f8d5501ad3df96",
+  "size": 1625778,
+  "notes": "QR 인쇄 미리보기에서 [인쇄] 버튼이 보이지 않던 문제 수정(창 아래 [인쇄]·[닫기], 도구 막대 맨 앞 '인쇄' 글자 버튼)",
   "download_url": "",
   "enc": "aesgcm-sym-v1",
-  "published_at": "2026-11-09T15:26:41"
+  "published_at": "2026-11-26T13:40:11"
 }
